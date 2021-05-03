@@ -5,8 +5,6 @@
 <img src="https://media.giphy.com/media/UW8Mnpe8Cniw7cLtCu/giphy.gif" alt="coding GIF" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarankm" alt="kumarankm" /> </p>
-
 - 👋 Hi, I’m @Arvindsai-lu (ARVIND SAI )
 - 👀 I’m interested in cyber security and machine learning...
 - 🌱 I’m currently learning  Cool H@Ck!Ng Stuff , doing some Machine learning Projects...
