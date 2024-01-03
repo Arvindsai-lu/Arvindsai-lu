@@ -1,5 +1,5 @@
 <h1 align="center">Hola!👋, I'm Arvind Sai Dooda here🤓</h1>
-<h3 align="center"> •  Coder💻  •  Learner📚  •Techie🧑‍💻  • CyberSecurity & Machine learning enthusiast 😊 </h3>
+<h3 align="center"> •  Coder💻  •  Learner📚  •Techie🧑‍💻  • Developer & Cyber Security Engineer 😊 </h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/UW8Mnpe8Cniw7cLtCu/giphy.gif" alt="coding GIF" />&nbsp;&nbsp;&nbsp;&nbsp;
