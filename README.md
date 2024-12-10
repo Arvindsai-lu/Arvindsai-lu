@@ -2,7 +2,7 @@
 <h3 align="center"> •  Cybersecurity Enthusiast 🔐  •  Developer 💻  •  Lifelong Learner 📖  • Graduate Student @ IIT Chicago 🏛️</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/UW8Mnpe8Cniw7cLtCu/giphy.gif" alt="coding GIF" />
+<img src="[https://media.giphy.com/media/UW8Mnpe8Cniw7cLtCu/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU0OHF3aXA1a3JyODR0eGU4bGRzbGp2YnRrbmdpbmgxdTBkdHZuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jaQuaJ8clDC1i/giphy.gif)" alt="coding GIF" />
 </p>
 
 - 👋 Hi, I’m **Arvind Sai Dooda** (@Arvindsai-lu)
