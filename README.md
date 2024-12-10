@@ -19,9 +19,6 @@
 <hr>
 <h3 align="center"> Connect With Me 😊 🖊️</h3>
 <p align="center">
-<img src="https://media.giphy.com/media/iJtY99TFeXS4MYaudW/giphy.gif" alt="Status" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
 <img src="https://media.giphy.com/media/jaQuaJ8clDC1i/giphy.gif?cid=ecf05e47cptt9qsmtu5uti28whcowq8s7s20lxfk4d7h4ajz&ep=v1_gifs_search&rid=giphy.gif" alt="Connect GIF" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
