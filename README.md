@@ -17,7 +17,7 @@
 <hr>
 <h3 align="center">Connect With Me 😊</h3>
 <p align="center">
-<img src="https://media.giphy.com/media/iJtY99TFeXS4MYaudW/giphy.gif" alt="Status" />
+<iframe src="https://giphy.com/embed/jaQuaJ8clDC1i" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/atla-avatar-gif-astralberrygif-jaQuaJ8clDC1i">via GIPHY</a></p>
 </p>
 
 <h2 align="center">Stay connected with me😉!</h2>
