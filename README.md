@@ -26,7 +26,7 @@ Real-time tool to detect and mitigate DoS attacks.
 <h3 align="center"> Connect With Me 😊 🖊️</h3>
 
 💻 [**Website**: Visit Me!](https://arvind-sai-dooda.netlify.app/)  
-📧 **Email**: [adooda@hawk.iit.edu](mailto:adooda@hawk.iit.edu)  
+📧 **Email**: [arvindsaidooda@gmail.com](arvindsaidooda@gmail.com)  
 🔗 [**LinkedIn**: Follow Me!](https://linkedin.com/in/arvind-sai-dooda)  
 🐦 [**Twitter**: Tweet Me!](https://twitter.com/arvindsai)  
 
