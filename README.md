@@ -6,13 +6,13 @@
 </p>
 
 - 👋 Hi, I’m @Arvindsai-lu (ARVIND SAI )
--  I’m Searching for Internships.
+-  I’m Searching for Internships and Entry-level role.
 - 👀 I’m Developer & Cyber Security Engineer currently doing masters in IIT Chicago. 
 - 🌱 I’m currently learning  Cool H@Ck!Ng Stuff , developing some Projects...
 - 💬 Ask me about technical stuff and knock knock jokes😉
 - ⚡ Fun fact: Oh boy, I can never get a simple regex correct without copy-paste
 - 💞️ I’m looking to collaborate  ...
-- 📫 How to reach me : My Website = <a href="https://arvind-sai-dooda.netlify.app/">Arvind Sai D</a> ...
+- 📫 How to reach me : My Website Live 🚩= <a href="https://arvind-sai-dooda.netlify.app/">Arvind Sai D</a> ...
 
 
 
