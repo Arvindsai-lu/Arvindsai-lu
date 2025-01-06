@@ -25,6 +25,11 @@ Real-time tool to detect and mitigate DoS attacks.
 
 <h3 align="center"> Connect With Me 😊 🖊️</h3>
 
+💻 [**Website**: Visit Me!](https://arvind-sai-dooda.netlify.app/)  
+📧 **Email**: [adooda@hawk.iit.edu](mailto:adooda@hawk.iit.edu)  
+🔗 [**LinkedIn**: Follow Me!](https://linkedin.com/in/arvind-sai-dooda)  
+🐦 [**Twitter**: Tweet Me!](https://twitter.com/arvindsai)  
+
 
 <!---
 Arvindsai-lu/Arvindsai-lu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
