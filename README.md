@@ -11,6 +11,18 @@
 - 📫 How to reach me : My Website Live 🚩= <a href="https://arvind-sai-dooda.netlify.app/">Arvind Sai D</a> ...
 
 <hr>
+
+### 🌟 Featured Projects  
+
+🎯 [**Hybrid IDS**](https://github.com/Arvindsai-lu/Hybrid-Intrusion-Detection-System-Using-Machine-Learning-)  
+Merging NIDS and HIDS with ML, achieving 96.8% accurate threat detection.  
+
+🔗 [**Blockchain Voting**](https://github.com/Arvindsai-lu/Decentralized-Voting-System-Decentralized-Voting-System-with-Metamask)  
+Secure Ethereum-based voting for transparency and tamper-proof results.  
+
+🛡️ **DoS Defender**  
+Real-time tool to detect and mitigate DoS attacks.  
+
 <h3 align="center"> Connect With Me 😊 🖊️</h3>
 
 
