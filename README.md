@@ -1,37 +1,54 @@
-<h1 align="center">Hola!👋, I'm Arvind Sai Dooda here🤓</h1>
-<h3 align="center"> • Cybersecurity Engineer 💻  • •Developer🧑‍💻 Lifelong Learner📚    • egex Warrior ⚡ </h3>
+<h1 align="center">Hola! 👋 I'm Arvind Sai Dooda 🤓</h1>
+<h3 align="center">• Cybersecurity Engineer 💻 • Developer 🧑‍💻 • Regex Warrior ⚡ • Lifelong Learner 📚</h3>
 
-- 👋 Hi, I’m @Arvindsai-lu (ARVIND SAI )
--  I’m Searching for Internships and Entry-level role.
-- 👀 I’m Developer & Cyber Security Engineer currently doing masters in IIT Chicago. 
-- 🌱 I’m currently learning  Cool H@Ck!Ng Stuff , developing some Projects...
-- 💬 Ask me about technical stuff and knock knock jokes😉
-- ⚡ Fun fact: Regex? More like Reg-exhausting. But hey, I’m still trying!
-- 💞️ I’m looking to collaborate  ...
-- 📫 How to reach me : My Website Live 🚩= <a href="https://arvind-sai-dooda.netlify.app/">Arvind Sai D</a> ...
+---
 
-<hr>
+- 👨‍🎓 Cybersecurity Graduate | Master's @ IIT Chicago 🇺🇸
+- 💼 Open to **Internships** and **Entry-level Security Roles**
+- 🔍 Currently Exploring: Red Teaming, Cloud Security, DevSecOps
+- 🧠 Building cool stuff in AI + Security + Automation
+- 🤖 Maintainer of [AI-Powered Resume ChatBot](https://chatgpt.com/g/g-682c09ae8ff48191913c618b30818727-arvind-resume-assistant)
+- 😄 Fun Fact: "Regex? More like Reg-exhausting. Still decoding!"
 
-### 🌟 Featured Projects  
+---
 
-🎯 [**Hybrid IDS**](https://github.com/Arvindsai-lu/Hybrid-Intrusion-Detection-System-Using-Machine-Learning-)  
-Merging NIDS and HIDS with ML, achieving 96.8% accurate threat detection.  
+## 🚀 Featured Projects
 
-🔗 [**Blockchain Voting**](https://github.com/Arvindsai-lu/Decentralized-Voting-System-Decentralized-Voting-System-with-Metamask)  
-Secure Ethereum-based voting for transparency and tamper-proof results.  
+🎯 [**Hybrid IDS (Intrusion Detection System)**](https://github.com/Arvindsai-lu/Hybrid-Intrusion-Detection-System-Using-Machine-Learning-)  
+> Combined host & network-based IDS with ML (Accuracy: 96.8%)
 
-🛡️ **DoS Defender**  
-Real-time tool to detect and mitigate DoS attacks.  
+🛡️ [**DoS Detection & Mitigation Tool**](https://github.com/NguyenVu1310/threeblock)  
+> CLI-based tool to monitor and counter DoS traffic in real-time.
 
-<h3 align="center"> Connect With Me 😊 🖊️</h3>
+🔐 [**Threat Detection & Analysis Labs**](https://github.com/Arvindsai-lu/Threat-Detection-Analysis-labs-projects)  
+> Practical labs: SAST, DAST, Honeypots, Risk Reports & Wireshark
 
-💻 [**Website**: Visit Me!](https://arvind-sai-dooda.netlify.app/)  
-📧 **Email**: [arvindsaidooda@gmail.com](arvindsaidooda@gmail.com)  
-🔗 [**LinkedIn**: Follow Me!](https://linkedin.com/in/arvind-sai-dooda)  
-🐦 [**Twitter**: Tweet Me!](https://twitter.com/arvindsai)  
+🌐 [**Decentralized Blockchain Voting**](https://github.com/Arvindsai-lu/Decentralized-Voting-System-Decentralized-Voting-System-with-Metamask)  
+> Built with Ethereum + MetaMask for tamper-proof elections
 
+🧠 [**Voice Cloning with AI**](https://github.com/Arvindsai-lu/Real-time-voice-cloning)  
+> Neural voice cloning using speaker embeddings + tacotron
 
-<!---
-Arvindsai-lu/Arvindsai-lu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💻 Tech & Tools
+
+**Languages**: Python, Java, JavaScript, Bash, SQL  
+**Frameworks**: React, Node.js, Express, Flask  
+**Security**: Nmap, Metasploit, ZAP, Wireshark, Cowrie, Splunk  
+**AI/ML**: PyTorch, LangChain, GPT, Whisper, Spotfire  
+**DevOps**: Docker, Ansible, GitHub Actions, Netlify  
+
+---
+
+## 🤝 Let's Connect
+
+- 🌍 Website: [arvind-sai-dooda.netlify.app](https://arvind-sai-dooda.netlify.app)
+- 📧 Email: [arvindsaidooda@gmail.com](mailto:arvindsaidooda@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/arvind-sai-dooda](https://www.linkedin.com/in/arvind-sai-dooda)
+- 🐙 GitHub: [@Arvindsai-lu](https://github.com/Arvindsai-lu)
+- 💬 Twitter: [@arvindsai](https://twitter.com/arvindsai)
+
+---
+
+> “Cybersecurity is not just code – it's curiosity, creativity, and constant learning.” ✨
