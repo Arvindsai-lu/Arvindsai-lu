@@ -43,7 +43,7 @@
 
 ## 🤝 Let's Connect
 
-- 🌍 Website: [arvind-sai-dooda.netlify.app](https://arvind-sai-dooda.netlify.app)
+- 🌍 Website: [arvind-sai-dooda.netlify.app](https://arvind-sai-d.netlify.app)
 - 📧 Email: [arvindsaidooda@gmail.com](mailto:arvindsaidooda@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/arvind-sai-dooda](https://www.linkedin.com/in/arvind-sai-dooda)
 - 🐙 GitHub: [@Arvindsai-lu](https://github.com/Arvindsai-lu)
